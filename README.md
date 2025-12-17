@@ -43,7 +43,7 @@ Aquí están las herramientas con las que construyo mis proyectos:
 
 #### 🐍 [Panel de Administración de Fincas] (Desktop App)
 Aplicación de escritorio desarrollada con **Python** y **QtDesigner**. Es un sistema de gestión integral para comunidades de vecinos que permite administrar propietarios, controlar incidencias y generar documentación oficial, con una interfaz moderna y eficiente..
-* **Tecnologías:** Python, PyQt5/PySide, QtDesigner.
+* **Tecnologías:** Python, PyQt6/PySide, QtDesigner.
 * 📷 **Ver código:** [Link al repositorio de este proyecto](https://github.com/Dieguuo/PanelVeciGest)
 
 #### 📱 [VeciGest] (En desarrollo)
