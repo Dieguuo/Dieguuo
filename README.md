@@ -34,7 +34,7 @@ Aquí están las herramientas con las que construyo mis proyectos:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,python" alt="Main Languages" /><br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=html,css,qt,git,idea,androidstudio" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,qt,git,idea,androidstudio,spring" alt="Tools" />
 </div>
 
 ---
@@ -55,7 +55,8 @@ Aplicación Android nativa diseñada para la **gestión de comunidades de vecino
 
 ### 📊 Mis Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dieguuo&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieguuo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=Dieguuo" />
-</div>
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+  <br/>
+</p>
