@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center">¡Hola! Soy Diego Pérez 👋</h1>
-  <h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) 📱💻</h3>
+  <h1 align="center">¡Hola! Soy Diego Pérez</h1>
+  <h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</h3>
   
   
   <a href="mailto:diegopzzv@gmail.com">
