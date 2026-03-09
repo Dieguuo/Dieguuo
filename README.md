@@ -19,56 +19,39 @@ Actualmente estoy cursando el Ciclo Superior de **Desarrollo de Aplicaciones Mul
 
 -  **Trabajando en:** Una aplicación móvil nativa con **Kotlin**.
 -  **He aprendido:** Bases sólidas en **Java** y **Python**.
--  **Intereses:** Desarrollo de escritorio (GUI) y ecosistema móvil.
+-  **Intereses:** Desarrollo de escritorio y ecosistema móvil.
 -  **Objetivo:** Seguir mejorando mis habilidades en desarrollo móvil y backend.
 
 ---
 
-##  Mi Arsenal Tecnológico
+##  Mis Tecnologías Utilizadas
 
 Aquí están las herramientas con las que construyo mis proyectos:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python" alt="Main Languages" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,mysql" alt="Main Languages" /><br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=html,css,qt,git,idea,androidstudio,spring" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,qt,git,idea,vscode,androidstudio,spring" alt="Tools" />
 </div>
 
 ---
 
 ## 📂 Proyectos Destacados
-### [Panel de Administración de Fincas] (Desktop App)
+### Panel de Administración de Fincas (Desktop App)
 >Aplicación de escritorio desarrollada con **Python** y **QtDesigner**. Es un sistema de gestión integral para comunidades de vecinos que permite administrar propietarios, controlar incidencias y generar documentación oficial, con una interfaz moderna y eficiente.
-
->**Tecnologías usadas:**
-> * **Lenguaje:** Python
-> * **Framework GUI:** PyQt6 / PySide
-> * **Diseño de Interfaz:** QtDesigner
 
 **Ver código:** [Link al repositorio de este proyecto](https://github.com/Dieguuo/PanelVeciGest)
 
-### [GargStream] (Web App)
+### GargStream (Web App)
 >Plataforma de streaming diseñada para gestionar y visualizar contenido multimedia. Permite la administración completa de películas, series y capítulos, gestión de usuarios con roles, sistema de favoritos, valoraciones y reproducción de vídeo adaptativa.
 >* **Panel de Administración:** Gestión CRUD completa. Permite la subida de vídeos, gestión de carátulas y edición de metadatos.
 >* **Seguridad:** Implementación de **Spring Security** con autenticación segura, protección CSRF y manejo de sesiones de usuario.
 >* **UX/UI Moderna:** Interfaz responsiva construida con **Thymeleaf**. Incluye buscador en tiempo real, votación por estrellas y funcionalidad "Añadir a Mi Lista".
 
->**Tecnologías usadas:**
->* **Lenguaje:** Java 21
->* **Framework:** Spring Boot
->* **Motor de Plantillas:** Thymeleaf
->* **Base de Datos:** H2 Database
->* **Frontend:** HTML5, CSS3, JavaScript
-
 **Ver código:** [Link al repositorio de este proyecto](https://github.com/Dieguuo/GargStream)
 
-###  [VeciGest] (Mobile App)
+###  VeciGest (Mobile App)
 >Aplicación Android nativa diseñada para la **gestión de comunidades de vecinos**. El objetivo es facilitar la comunicación entre propietarios y administradores.
-
->**Tecnologías usadas:**
-> * **Lenguaje:** Kotlin
-> * **Plataforma:** Android SDK
-> * **Diseño UI:** XML Layouts
 
 >**Estado:**  Desarrollo inicial.
 
